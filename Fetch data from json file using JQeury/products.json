@@ -1,0 +1,74 @@
+[
+    {
+       "image": "products/01.jpg",
+       "title": "Product title",
+       "description": "Lorem ipsum dolor sit amet consectetur.",
+       "price": "9,39"
+    },
+    {
+       "image": "products/02.jpg",
+       "title": "Product title",
+       "description": "Lorem ipsum dolor sit amet consectetur.",
+       "price": "8,46"
+    },
+    {
+       "image": "products/03.jpg",
+       "title": "Product title",
+       "description": "Lorem ipsum dolor sit amet consectetur.",
+       "price": "10,99"
+    },
+    {
+       "image": "products/04.jpg",
+       "title": "Product title",
+       "description": "Lorem ipsum dolor sit amet consectetur.",
+       "price": "5,95"
+    },
+    {
+       "image": "products/05.jpg",
+       "title": "Product title",
+       "description": "Lorem ipsum dolor sit amet consectetur.",
+       "price": "9,12"
+    },
+    {
+       "image": "products/06.jpg",
+       "title": "Product title",
+       "description": "Lorem ipsum dolor sit amet consectetur.",
+       "price": "15,96"
+    },
+    {
+       "image": "products/01.jpg",
+       "title": "Product title",
+       "description": "Lorem ipsum dolor sit amet consectetur.",
+       "price": "9,39"
+    },
+    {
+       "image": "products/02.jpg",
+       "title": "Product title",
+       "description": "Lorem ipsum dolor sit amet consectetur.",
+       "price": "8,46"
+    },
+    {
+       "image": "products/03.jpg",
+       "title": "Product title",
+       "description": "Lorem ipsum dolor sit amet consectetur.",
+       "price": "10,99"
+    },
+    {
+       "image": "products/04.jpg",
+       "title": "Product title",
+       "description": "Lorem ipsum dolor sit amet consectetur.",
+       "price": "5,95"
+    },
+    {
+       "image": "products/05.jpg",
+       "title": "Product title",
+       "description": "Lorem ipsum dolor sit amet consectetur.",
+       "price": "9,12"
+    },
+    {
+       "image": "products/06.jpg",
+       "title": "Product title",
+       "description": "Lorem ipsum dolor sit amet consectetur.",
+       "price": "15,96"
+    }
+ ]
