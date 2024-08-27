@@ -38,5 +38,7 @@ $(document).ready(function () {
 
       $("#product-list").append(productContainer);
     });
-  });
+  }).fail(function(){
+      $("#container").addClass("hidden");
+  })
 });

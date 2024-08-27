@@ -6,10 +6,19 @@
     <title>e-commerce website</title>
     <link rel="stylesheet" href="style.css">
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
 <body>
-    <h1>Fetching Products From Json File</h1>
-    <div id="product-list"></div>
+    <!-- spinner start -->
+        <div class="spinner-border" role="status">
+            <span class="sr-only" id="spinner">Loading...</span>
+        </div>
+    <!-- spinner end -->
+
+    <div id="container">
+        <h1>Fetching Products From Json File</h1>
+        <div id="product-list"></div>
+    </div>
     <script src="code.jquery.com_jquery-3.7.0.js"></script>
     <script src="https://cdn.lordicon.com/lordicon.js"></script>
     <script src="main.js"></script>
